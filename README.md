@@ -5,6 +5,8 @@
 
 Kaggle nickname: mayo889
 
+https://www.kaggle.com/mayo889
+
 Best score: 0.74858
 
 Ссылка на соревнование: https://www.kaggle.com/c/realestatepriceprediction
